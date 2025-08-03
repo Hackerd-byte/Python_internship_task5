@@ -1,4 +1,4 @@
-# Python_intership_task5
+# Python_internship_task5
 # 📧 Spam Email Classifier
 
 This project is a simple machine learning model built in Python that classifies emails as **Spam** or **Ham (Not Spam)** using TF-IDF vectorization and Logistic Regression.
